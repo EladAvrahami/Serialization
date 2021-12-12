@@ -1,2 +1,2 @@
 # Serialization26(1)
-write/ read  to/from file
+write/read to/from files
